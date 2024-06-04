@@ -1,9 +1,9 @@
 import "./userInfo.css"
 
-const UserInfo = () => {
+const Userinfo = () => {
   return (
     <div className="userInfo">UserInfo</div>
   )
 }
 
-export default UserInfo
+export default Userinfo
